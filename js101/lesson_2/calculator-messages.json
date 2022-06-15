@@ -1,0 +1,11 @@
+ {
+  "welcome" : "Welcome to Calculator",
+  "getVal1" : "What's the first number?",
+  "getVal2" : "What's the second number?",
+  "getOperation": "What operation would you like to preform",
+  "operationKey": "1) Add 2)Subtract 3)Multiply 4)Divide",
+  "invalidNum": "Hmm... that doesn't look like a valid number",
+  "invalidOperation" : "Must choose 1,2, 3, or 4",
+  "restart" : "Would you like to preform another calculation?(y/n)",
+  "result" : "The result of the calculation:"
+}
