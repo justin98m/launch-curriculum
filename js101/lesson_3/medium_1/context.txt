@@ -1,0 +1,1 @@
+I skip some question because they may simply ask for an answer that does not require writing code. 
