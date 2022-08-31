@@ -1,3 +1,5 @@
+//given a string returnt the middle element 
+//if even return the middle two elements
 function centerOf(str){
     let len = str.length;
     if(len % 2 === 0){

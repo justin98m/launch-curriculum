@@ -1,4 +1,4 @@
-
+//reverse a number
 function reverseNumber(num){
     let reverseArr = "";
     num = String(num);
