@@ -1,5 +1,5 @@
 /* Given an array containing ints from 0 to 19 Inclusive  sort the integers
-based on there english alphabtical order */
+based on thier english alphabtical order */
 
 const ENGLISH_NUMBERS =
   ['zero','one','two','three','four','five','six','seven','eight','nine','ten',
